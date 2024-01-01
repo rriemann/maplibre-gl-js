@@ -182,6 +182,10 @@ Provides an [Elm](https://elm-lang.org) integration.
 Provides an [Ember](http://emberjs.com) integration.
 <br/><small>[View on GitHub](https://github.com/kturney/ember-mapbox-gl)</small>
 
+#### jekyll-maplibre
+Provides a [Jekyll](https://jekyllrb.com/) integration (plug-in).
+<br/><small>[]View on GitHub](https://github.com/rriemann/jekyll-maplibre)</small>
+
 #### svelte-maplibre
 Provides a [Svelte](https://svelte.dev) integration.
 <br/><small>[View on GitHub](https://github.com/dimfeld/svelte-maplibre)</small>
